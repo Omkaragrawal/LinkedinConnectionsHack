@@ -38,3 +38,4 @@ $(function() {
 ```
 
 ### run only few times a day, then you won't be caught by the LinkedIn bot.
+### (Note: you might get duplicated user after reloading the page)
