@@ -32,4 +32,4 @@ $(function() {
 });
 ```
 
-## do not run this all day long, and you won't be caught by the LinkedIn bot.
+### do not run this all day long, and you won't be caught by the LinkedIn bot.
