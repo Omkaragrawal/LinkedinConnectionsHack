@@ -1,7 +1,9 @@
 # LinkedinConnectionsHack
 Linkedin Connections Hack...
 
-
+1. add chrome extension `cjs` (add jQuery)
+2. add the following code
+3. goto https://www.linkedin.com/mynetwork/ 
 
 ```javascript
 
