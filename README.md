@@ -4,7 +4,7 @@ Linkedin Connections Hack...
 
 
 ```javascript
-// Here You can type your custom JavaScript...
+
 $(function() {
   //wait 2.5 sec so page is fully rendered
   setTimeout(function() {
@@ -31,3 +31,4 @@ $(function() {
   }, 2500);
 });
 ```
+
