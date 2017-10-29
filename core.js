@@ -18,9 +18,11 @@ $(function() {
       }, seed * index)
     });
 
-    setTimeout(function() {
-      location.reload();
-    }, seed * (users.length + 1));
+		if(users.length > 0){
+      setTimeout(function() {
+        location.reload();
+      }, seed * (users.length + 1));    
+    }
 
   }, 2500);
 });
