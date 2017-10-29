@@ -1,6 +1,4 @@
-# LinkedinConnectionsHack
-
-lazy and wanted to connect to more people on Linkedin.
+lazy and wanted to connect to more people on Linkedin...
 
 1. add chrome extension `cjs` (add jQuery)
 2. add the following code
