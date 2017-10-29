@@ -34,4 +34,4 @@ $(function() {
 });
 ```
 
-### do not run this all day long, and you won't be caught by the LinkedIn bot.
+### run only few times a day, then you won't be caught by the LinkedIn bot.
