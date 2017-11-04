@@ -4,6 +4,8 @@ lazy and wanted to connect to more people on Linkedin...
 2. add the following code
 3. goto https://www.linkedin.com/mynetwork/ 
 
+(there is a limit of 3000 invites and 30k cap for normal users)
+
 ```javascript
 
 $(function() {
